@@ -3,6 +3,7 @@ public class Deneme1_GitHub {
         System.out.println("Heeeeey");
         System.out.println("heeey github");
         System.out.println();
+        System.out.println();
 
     }
 }
